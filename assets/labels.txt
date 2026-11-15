@@ -1,0 +1,207 @@
+person
+child
+adult
+pedestrian
+worker
+security guard
+person sitting
+person standing
+door
+open door
+closed door
+window
+stairs
+staircase
+railing
+elevator
+elevator door
+gate
+fence
+wall
+pillar
+column
+ceiling
+floor
+chair
+office chair
+stool
+table
+desk
+dining table
+coffee table
+couch
+sofa
+armchair
+bed
+mattress
+cabinet
+cupboard
+shelf
+bookshelf
+drawer
+wardrobe
+bench
+toilet
+urinal
+sink
+faucet
+bathtub
+shower
+mirror
+soap dispenser
+towel
+toilet paper
+refrigerator
+microwave
+oven
+stove
+kettle
+dishwasher
+washing machine
+water dispenser
+bottle
+water bottle
+plastic bottle
+glass bottle
+cup
+mug
+glass
+plate
+bowl
+spoon
+fork
+knife
+food container
+lunch box
+plastic bag
+paper bag
+cardboard box
+package
+book
+notebook
+paper
+newspaper
+pen
+pencil
+scissors
+laptop
+desktop computer
+computer monitor
+keyboard
+mouse
+phone
+smartphone
+tablet
+television
+remote control
+printer
+camera
+security camera
+speaker
+headphones
+charger
+power bank
+electrical socket
+light switch
+light bulb
+fan
+air conditioner
+backpack
+handbag
+suitcase
+briefcase
+wallet
+keys
+keychain
+umbrella
+hat
+cap
+helmet
+shoes
+socks
+jacket
+coat
+glasses
+watch
+belt
+scarf
+shopping bag
+car
+bus
+truck
+pickup truck
+van
+minibus
+bicycle
+motorcycle
+scooter
+boda boda
+tricycle
+bicycle cart
+motorcycle taxi
+wheelchair
+ambulance
+police car
+fire truck
+tractor
+trailer
+traffic light
+stop sign
+road sign
+street sign
+speed limit sign
+pedestrian crossing
+crosswalk
+road barrier
+bollard
+traffic cone
+guardrail
+street light
+lamp post
+pole
+fire hydrant
+manhole cover
+drain
+curb
+road divider
+parking meter
+bus stop
+bus shelter
+parking sign
+tree
+plant
+flower
+grass
+bush
+rock
+stone
+wooden log
+soil
+puddle
+water
+trash can
+garbage bin
+dumpster
+recycling bin
+trash bag
+broom
+mop
+bucket
+ladder
+wheelbarrow
+construction barrier
+construction equipment
+dog
+puppy
+cat
+bird
+fire extinguisher
+fire alarm
+smoke detector
+first aid kit
+emergency exit sign
+security barrier
+warning sign
+safety vest
+reflective jacket
+hard hat

@@ -1,0 +1,26 @@
+name: dts5
+description: "A new Flutter project."
+publish_to: "none"
+version: 0.1.0+1
+
+environment:
+  sdk: ^3.12.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  ultralytics_yolo: ^0.7.1
+  web_socket_channel: ^3.0.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/labels.txt
+    - assets/phrase_bank/phrases.json
+    - assets/phrase_bank/manifest.json
+    - assets/phrase_bank/clips/

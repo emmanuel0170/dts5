@@ -1,0 +1,830 @@
+{
+ "label:person": {
+  "file": "clips/label__person.wav",
+  "ms": 610
+ },
+ "label:child": {
+  "file": "clips/label__child.wav",
+  "ms": 491
+ },
+ "label:adult": {
+  "file": "clips/label__adult.wav",
+  "ms": 568
+ },
+ "label:pedestrian": {
+  "file": "clips/label__pedestrian.wav",
+  "ms": 713
+ },
+ "label:worker": {
+  "file": "clips/label__worker.wav",
+  "ms": 592
+ },
+ "label:security_guard": {
+  "file": "clips/label__security_guard.wav",
+  "ms": 913
+ },
+ "label:person_sitting": {
+  "file": "clips/label__person_sitting.wav",
+  "ms": 893
+ },
+ "label:person_standing": {
+  "file": "clips/label__person_standing.wav",
+  "ms": 988
+ },
+ "label:door": {
+  "file": "clips/label__door.wav",
+  "ms": 443
+ },
+ "label:open_door": {
+  "file": "clips/label__open_door.wav",
+  "ms": 748
+ },
+ "label:closed_door": {
+  "file": "clips/label__closed_door.wav",
+  "ms": 730
+ },
+ "label:window": {
+  "file": "clips/label__window.wav",
+  "ms": 601
+ },
+ "label:stairs": {
+  "file": "clips/label__stairs.wav",
+  "ms": 625
+ },
+ "label:staircase": {
+  "file": "clips/label__staircase.wav",
+  "ms": 752
+ },
+ "label:railing": {
+  "file": "clips/label__railing.wav",
+  "ms": 570
+ },
+ "label:elevator": {
+  "file": "clips/label__elevator.wav",
+  "ms": 667
+ },
+ "label:elevator_door": {
+  "file": "clips/label__elevator_door.wav",
+  "ms": 895
+ },
+ "label:gate": {
+  "file": "clips/label__gate.wav",
+  "ms": 482
+ },
+ "label:fence": {
+  "file": "clips/label__fence.wav",
+  "ms": 536
+ },
+ "label:wall": {
+  "file": "clips/label__wall.wav",
+  "ms": 443
+ },
+ "label:pillar": {
+  "file": "clips/label__pillar.wav",
+  "ms": 476
+ },
+ "label:column": {
+  "file": "clips/label__column.wav",
+  "ms": 516
+ },
+ "label:ceiling": {
+  "file": "clips/label__ceiling.wav",
+  "ms": 541
+ },
+ "label:floor": {
+  "file": "clips/label__floor.wav",
+  "ms": 478
+ },
+ "label:chair": {
+  "file": "clips/label__chair.wav",
+  "ms": 419
+ },
+ "label:office_chair": {
+  "file": "clips/label__office_chair.wav",
+  "ms": 758
+ },
+ "label:stool": {
+  "file": "clips/label__stool.wav",
+  "ms": 535
+ },
+ "label:table": {
+  "file": "clips/label__table.wav",
+  "ms": 507
+ },
+ "label:desk": {
+  "file": "clips/label__desk.wav",
+  "ms": 508
+ },
+ "label:dining_table": {
+  "file": "clips/label__dining_table.wav",
+  "ms": 845
+ },
+ "label:coffee_table": {
+  "file": "clips/label__coffee_table.wav",
+  "ms": 783
+ },
+ "label:couch": {
+  "file": "clips/label__couch.wav",
+  "ms": 426
+ },
+ "label:sofa": {
+  "file": "clips/label__sofa.wav",
+  "ms": 594
+ },
+ "label:armchair": {
+  "file": "clips/label__armchair.wav",
+  "ms": 591
+ },
+ "label:bed": {
+  "file": "clips/label__bed.wav",
+  "ms": 324
+ },
+ "label:mattress": {
+  "file": "clips/label__mattress.wav",
+  "ms": 663
+ },
+ "label:cabinet": {
+  "file": "clips/label__cabinet.wav",
+  "ms": 620
+ },
+ "label:cupboard": {
+  "file": "clips/label__cupboard.wav",
+  "ms": 517
+ },
+ "label:shelf": {
+  "file": "clips/label__shelf.wav",
+  "ms": 493
+ },
+ "label:bookshelf": {
+  "file": "clips/label__bookshelf.wav",
+  "ms": 613
+ },
+ "label:drawer": {
+  "file": "clips/label__drawer.wav",
+  "ms": 471
+ },
+ "label:wardrobe": {
+  "file": "clips/label__wardrobe.wav",
+  "ms": 667
+ },
+ "label:bench": {
+  "file": "clips/label__bench.wav",
+  "ms": 488
+ },
+ "label:toilet": {
+  "file": "clips/label__toilet.wav",
+  "ms": 528
+ },
+ "label:urinal": {
+  "file": "clips/label__urinal.wav",
+  "ms": 588
+ },
+ "label:sink": {
+  "file": "clips/label__sink.wav",
+  "ms": 518
+ },
+ "label:faucet": {
+  "file": "clips/label__faucet.wav",
+  "ms": 593
+ },
+ "label:bathtub": {
+  "file": "clips/label__bathtub.wav",
+  "ms": 626
+ },
+ "label:shower": {
+  "file": "clips/label__shower.wav",
+  "ms": 507
+ },
+ "label:mirror": {
+  "file": "clips/label__mirror.wav",
+  "ms": 492
+ },
+ "label:soap_dispenser": {
+  "file": "clips/label__soap_dispenser.wav",
+  "ms": 930
+ },
+ "label:towel": {
+  "file": "clips/label__towel.wav",
+  "ms": 444
+ },
+ "label:toilet_paper": {
+  "file": "clips/label__toilet_paper.wav",
+  "ms": 862
+ },
+ "label:refrigerator": {
+  "file": "clips/label__refrigerator.wav",
+  "ms": 819
+ },
+ "label:microwave": {
+  "file": "clips/label__microwave.wav",
+  "ms": 760
+ },
+ "label:oven": {
+  "file": "clips/label__oven.wav",
+  "ms": 481
+ },
+ "label:stove": {
+  "file": "clips/label__stove.wav",
+  "ms": 560
+ },
+ "label:kettle": {
+  "file": "clips/label__kettle.wav",
+  "ms": 483
+ },
+ "label:dishwasher": {
+  "file": "clips/label__dishwasher.wav",
+  "ms": 714
+ },
+ "label:washing_machine": {
+  "file": "clips/label__washing_machine.wav",
+  "ms": 921
+ },
+ "label:water_dispenser": {
+  "file": "clips/label__water_dispenser.wav",
+  "ms": 1027
+ },
+ "label:bottle": {
+  "file": "clips/label__bottle.wav",
+  "ms": 500
+ },
+ "label:water_bottle": {
+  "file": "clips/label__water_bottle.wav",
+  "ms": 755
+ },
+ "label:plastic_bottle": {
+  "file": "clips/label__plastic_bottle.wav",
+  "ms": 898
+ },
+ "label:glass_bottle": {
+  "file": "clips/label__glass_bottle.wav",
+  "ms": 755
+ },
+ "label:cup": {
+  "file": "clips/label__cup.wav",
+  "ms": 436
+ },
+ "label:mug": {
+  "file": "clips/label__mug.wav",
+  "ms": 447
+ },
+ "label:glass": {
+  "file": "clips/label__glass.wav",
+  "ms": 532
+ },
+ "label:plate": {
+  "file": "clips/label__plate.wav",
+  "ms": 489
+ },
+ "label:bowl": {
+  "file": "clips/label__bowl.wav",
+  "ms": 446
+ },
+ "label:spoon": {
+  "file": "clips/label__spoon.wav",
+  "ms": 565
+ },
+ "label:fork": {
+  "file": "clips/label__fork.wav",
+  "ms": 518
+ },
+ "label:knife": {
+  "file": "clips/label__knife.wav",
+  "ms": 475
+ },
+ "label:food_container": {
+  "file": "clips/label__food_container.wav",
+  "ms": 895
+ },
+ "label:lunch_box": {
+  "file": "clips/label__lunch_box.wav",
+  "ms": 841
+ },
+ "label:plastic_bag": {
+  "file": "clips/label__plastic_bag.wav",
+  "ms": 894
+ },
+ "label:paper_bag": {
+  "file": "clips/label__paper_bag.wav",
+  "ms": 528
+ },
+ "label:cardboard_box": {
+  "file": "clips/label__cardboard_box.wav",
+  "ms": 1026
+ },
+ "label:package": {
+  "file": "clips/label__package.wav",
+  "ms": 600
+ },
+ "label:book": {
+  "file": "clips/label__book.wav",
+  "ms": 447
+ },
+ "label:notebook": {
+  "file": "clips/label__notebook.wav",
+  "ms": 638
+ },
+ "label:paper": {
+  "file": "clips/label__paper.wav",
+  "ms": 568
+ },
+ "label:newspaper": {
+  "file": "clips/label__newspaper.wav",
+  "ms": 703
+ },
+ "label:pen": {
+  "file": "clips/label__pen.wav",
+  "ms": 453
+ },
+ "label:pencil": {
+  "file": "clips/label__pencil.wav",
+  "ms": 566
+ },
+ "label:scissors": {
+  "file": "clips/label__scissors.wav",
+  "ms": 609
+ },
+ "label:laptop": {
+  "file": "clips/label__laptop.wav",
+  "ms": 643
+ },
+ "label:desktop_computer": {
+  "file": "clips/label__desktop_computer.wav",
+  "ms": 1163
+ },
+ "label:computer_monitor": {
+  "file": "clips/label__computer_monitor.wav",
+  "ms": 1040
+ },
+ "label:keyboard": {
+  "file": "clips/label__keyboard.wav",
+  "ms": 430
+ },
+ "label:mouse": {
+  "file": "clips/label__mouse.wav",
+  "ms": 510
+ },
+ "label:phone": {
+  "file": "clips/label__phone.wav",
+  "ms": 523
+ },
+ "label:smartphone": {
+  "file": "clips/label__smartphone.wav",
+  "ms": 784
+ },
+ "label:tablet": {
+  "file": "clips/label__tablet.wav",
+  "ms": 591
+ },
+ "label:television": {
+  "file": "clips/label__television.wav",
+  "ms": 673
+ },
+ "label:remote_control": {
+  "file": "clips/label__remote_control.wav",
+  "ms": 942
+ },
+ "label:printer": {
+  "file": "clips/label__printer.wav",
+  "ms": 555
+ },
+ "label:camera": {
+  "file": "clips/label__camera.wav",
+  "ms": 540
+ },
+ "label:security_camera": {
+  "file": "clips/label__security_camera.wav",
+  "ms": 957
+ },
+ "label:speaker": {
+  "file": "clips/label__speaker.wav",
+  "ms": 628
+ },
+ "label:headphones": {
+  "file": "clips/label__headphones.wav",
+  "ms": 770
+ },
+ "label:charger": {
+  "file": "clips/label__charger.wav",
+  "ms": 577
+ },
+ "label:power_bank": {
+  "file": "clips/label__power_bank.wav",
+  "ms": 734
+ },
+ "label:electrical_socket": {
+  "file": "clips/label__electrical_socket.wav",
+  "ms": 1132
+ },
+ "label:light_switch": {
+  "file": "clips/label__light_switch.wav",
+  "ms": 737
+ },
+ "label:light_bulb": {
+  "file": "clips/label__light_bulb.wav",
+  "ms": 765
+ },
+ "label:fan": {
+  "file": "clips/label__fan.wav",
+  "ms": 490
+ },
+ "label:air_conditioner": {
+  "file": "clips/label__air_conditioner.wav",
+  "ms": 821
+ },
+ "label:backpack": {
+  "file": "clips/label__backpack.wav",
+  "ms": 694
+ },
+ "label:handbag": {
+  "file": "clips/label__handbag.wav",
+  "ms": 678
+ },
+ "label:suitcase": {
+  "file": "clips/label__suitcase.wav",
+  "ms": 720
+ },
+ "label:briefcase": {
+  "file": "clips/label__briefcase.wav",
+  "ms": 740
+ },
+ "label:wallet": {
+  "file": "clips/label__wallet.wav",
+  "ms": 536
+ },
+ "label:keys": {
+  "file": "clips/label__keys.wav",
+  "ms": 541
+ },
+ "label:keychain": {
+  "file": "clips/label__keychain.wav",
+  "ms": 589
+ },
+ "label:umbrella": {
+  "file": "clips/label__umbrella.wav",
+  "ms": 613
+ },
+ "label:hat": {
+  "file": "clips/label__hat.wav",
+  "ms": 424
+ },
+ "label:cap": {
+  "file": "clips/label__cap.wav",
+  "ms": 457
+ },
+ "label:helmet": {
+  "file": "clips/label__helmet.wav",
+  "ms": 575
+ },
+ "label:shoes": {
+  "file": "clips/label__shoes.wav",
+  "ms": 564
+ },
+ "label:socks": {
+  "file": "clips/label__socks.wav",
+  "ms": 551
+ },
+ "label:jacket": {
+  "file": "clips/label__jacket.wav",
+  "ms": 560
+ },
+ "label:coat": {
+  "file": "clips/label__coat.wav",
+  "ms": 459
+ },
+ "label:glasses": {
+  "file": "clips/label__glasses.wav",
+  "ms": 678
+ },
+ "label:watch": {
+  "file": "clips/label__watch.wav",
+  "ms": 519
+ },
+ "label:belt": {
+  "file": "clips/label__belt.wav",
+  "ms": 485
+ },
+ "label:scarf": {
+  "file": "clips/label__scarf.wav",
+  "ms": 548
+ },
+ "label:shopping_bag": {
+  "file": "clips/label__shopping_bag.wav",
+  "ms": 585
+ },
+ "label:car": {
+  "file": "clips/label__car.wav",
+  "ms": 418
+ },
+ "label:bus": {
+  "file": "clips/label__bus.wav",
+  "ms": 491
+ },
+ "label:truck": {
+  "file": "clips/label__truck.wav",
+  "ms": 479
+ },
+ "label:pickup_truck": {
+  "file": "clips/label__pickup_truck.wav",
+  "ms": 792
+ },
+ "label:van": {
+  "file": "clips/label__van.wav",
+  "ms": 459
+ },
+ "label:minibus": {
+  "file": "clips/label__minibus.wav",
+  "ms": 642
+ },
+ "label:bicycle": {
+  "file": "clips/label__bicycle.wav",
+  "ms": 660
+ },
+ "label:motorcycle": {
+  "file": "clips/label__motorcycle.wav",
+  "ms": 840
+ },
+ "label:scooter": {
+  "file": "clips/label__scooter.wav",
+  "ms": 550
+ },
+ "label:boda_boda": {
+  "file": "clips/label__boda_boda.wav",
+  "ms": 792
+ },
+ "label:tricycle": {
+  "file": "clips/label__tricycle.wav",
+  "ms": 656
+ },
+ "label:bicycle_cart": {
+  "file": "clips/label__bicycle_cart.wav",
+  "ms": 942
+ },
+ "label:motorcycle_taxi": {
+  "file": "clips/label__motorcycle_taxi.wav",
+  "ms": 1149
+ },
+ "label:wheelchair": {
+  "file": "clips/label__wheelchair.wav",
+  "ms": 619
+ },
+ "label:ambulance": {
+  "file": "clips/label__ambulance.wav",
+  "ms": 734
+ },
+ "label:police_car": {
+  "file": "clips/label__police_car.wav",
+  "ms": 723
+ },
+ "label:fire_truck": {
+  "file": "clips/label__fire_truck.wav",
+  "ms": 761
+ },
+ "label:tractor": {
+  "file": "clips/label__tractor.wav",
+  "ms": 635
+ },
+ "label:trailer": {
+  "file": "clips/label__trailer.wav",
+  "ms": 564
+ },
+ "label:traffic_light": {
+  "file": "clips/label__traffic_light.wav",
+  "ms": 799
+ },
+ "label:stop_sign": {
+  "file": "clips/label__stop_sign.wav",
+  "ms": 774
+ },
+ "label:road_sign": {
+  "file": "clips/label__road_sign.wav",
+  "ms": 735
+ },
+ "label:street_sign": {
+  "file": "clips/label__street_sign.wav",
+  "ms": 792
+ },
+ "label:speed_limit_sign": {
+  "file": "clips/label__speed_limit_sign.wav",
+  "ms": 1043
+ },
+ "label:pedestrian_crossing": {
+  "file": "clips/label__pedestrian_crossing.wav",
+  "ms": 1164
+ },
+ "label:crosswalk": {
+  "file": "clips/label__crosswalk.wav",
+  "ms": 671
+ },
+ "label:road_barrier": {
+  "file": "clips/label__road_barrier.wav",
+  "ms": 806
+ },
+ "label:bollard": {
+  "file": "clips/label__bollard.wav",
+  "ms": 566
+ },
+ "label:traffic_cone": {
+  "file": "clips/label__traffic_cone.wav",
+  "ms": 838
+ },
+ "label:guardrail": {
+  "file": "clips/label__guardrail.wav",
+  "ms": 579
+ },
+ "label:street_light": {
+  "file": "clips/label__street_light.wav",
+  "ms": 735
+ },
+ "label:lamp_post": {
+  "file": "clips/label__lamp_post.wav",
+  "ms": 802
+ },
+ "label:pole": {
+  "file": "clips/label__pole.wav",
+  "ms": 486
+ },
+ "label:fire_hydrant": {
+  "file": "clips/label__fire_hydrant.wav",
+  "ms": 866
+ },
+ "label:manhole_cover": {
+  "file": "clips/label__manhole_cover.wav",
+  "ms": 892
+ },
+ "label:drain": {
+  "file": "clips/label__drain.wav",
+  "ms": 506
+ },
+ "label:curb": {
+  "file": "clips/label__curb.wav",
+  "ms": 493
+ },
+ "label:road_divider": {
+  "file": "clips/label__road_divider.wav",
+  "ms": 832
+ },
+ "label:parking_meter": {
+  "file": "clips/label__parking_meter.wav",
+  "ms": 783
+ },
+ "label:bus_stop": {
+  "file": "clips/label__bus_stop.wav",
+  "ms": 731
+ },
+ "label:bus_shelter": {
+  "file": "clips/label__bus_shelter.wav",
+  "ms": 761
+ },
+ "label:parking_sign": {
+  "file": "clips/label__parking_sign.wav",
+  "ms": 816
+ },
+ "label:tree": {
+  "file": "clips/label__tree.wav",
+  "ms": 469
+ },
+ "label:plant": {
+  "file": "clips/label__plant.wav",
+  "ms": 504
+ },
+ "label:flower": {
+  "file": "clips/label__flower.wav",
+  "ms": 551
+ },
+ "label:grass": {
+  "file": "clips/label__grass.wav",
+  "ms": 554
+ },
+ "label:bush": {
+  "file": "clips/label__bush.wav",
+  "ms": 480
+ },
+ "label:rock": {
+  "file": "clips/label__rock.wav",
+  "ms": 480
+ },
+ "label:stone": {
+  "file": "clips/label__stone.wav",
+  "ms": 538
+ },
+ "label:wooden_log": {
+  "file": "clips/label__wooden_log.wav",
+  "ms": 609
+ },
+ "label:soil": {
+  "file": "clips/label__soil.wav",
+  "ms": 490
+ },
+ "label:puddle": {
+  "file": "clips/label__puddle.wav",
+  "ms": 514
+ },
+ "label:water": {
+  "file": "clips/label__water.wav",
+  "ms": 540
+ },
+ "label:trash_can": {
+  "file": "clips/label__trash_can.wav",
+  "ms": 728
+ },
+ "label:garbage_bin": {
+  "file": "clips/label__garbage_bin.wav",
+  "ms": 764
+ },
+ "label:dumpster": {
+  "file": "clips/label__dumpster.wav",
+  "ms": 617
+ },
+ "label:recycling_bin": {
+  "file": "clips/label__recycling_bin.wav",
+  "ms": 769
+ },
+ "label:trash_bag": {
+  "file": "clips/label__trash_bag.wav",
+  "ms": 576
+ },
+ "label:broom": {
+  "file": "clips/label__broom.wav",
+  "ms": 514
+ },
+ "label:mop": {
+  "file": "clips/label__mop.wav",
+  "ms": 459
+ },
+ "label:bucket": {
+  "file": "clips/label__bucket.wav",
+  "ms": 576
+ },
+ "label:ladder": {
+  "file": "clips/label__ladder.wav",
+  "ms": 493
+ },
+ "label:wheelbarrow": {
+  "file": "clips/label__wheelbarrow.wav",
+  "ms": 620
+ },
+ "label:construction_barrier": {
+  "file": "clips/label__construction_barrier.wav",
+  "ms": 1101
+ },
+ "label:construction_equipment": {
+  "file": "clips/label__construction_equipment.wav",
+  "ms": 1182
+ },
+ "label:dog": {
+  "file": "clips/label__dog.wav",
+  "ms": 472
+ },
+ "label:puppy": {
+  "file": "clips/label__puppy.wav",
+  "ms": 543
+ },
+ "label:cat": {
+  "file": "clips/label__cat.wav",
+  "ms": 446
+ },
+ "label:bird": {
+  "file": "clips/label__bird.wav",
+  "ms": 471
+ },
+ "label:fire_extinguisher": {
+  "file": "clips/label__fire_extinguisher.wav",
+  "ms": 1010
+ },
+ "label:fire_alarm": {
+  "file": "clips/label__fire_alarm.wav",
+  "ms": 795
+ },
+ "label:smoke_detector": {
+  "file": "clips/label__smoke_detector.wav",
+  "ms": 951
+ },
+ "label:first_aid_kit": {
+  "file": "clips/label__first_aid_kit.wav",
+  "ms": 948
+ },
+ "label:emergency_exit_sign": {
+  "file": "clips/label__emergency_exit_sign.wav",
+  "ms": 1384
+ },
+ "label:security_barrier": {
+  "file": "clips/label__security_barrier.wav",
+  "ms": 947
+ },
+ "label:warning_sign": {
+  "file": "clips/label__warning_sign.wav",
+  "ms": 845
+ },
+ "label:safety_vest": {
+  "file": "clips/label__safety_vest.wav",
+  "ms": 843
+ },
+ "label:reflective_jacket": {
+  "file": "clips/label__reflective_jacket.wav",
+  "ms": 1080
+ },
+ "label:hard_hat": {
+  "file": "clips/label__hard_hat.wav",
+  "ms": 675
+ }
+}
